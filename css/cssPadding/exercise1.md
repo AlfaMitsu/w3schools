@@ -1,4 +1,4 @@
-Set the top padding of the <h1> element to 30 pixels.
+Set the top padding of the "<h1>" element to 30 pixels.
 
     <!DOCTYPE html>
     <html>
